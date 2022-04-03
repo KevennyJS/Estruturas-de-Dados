@@ -1,4 +1,5 @@
 # Estruturas-de-Dados
 
-- [X] Lista Circular
-- [X] Lista Duplamente Encadeada
+- :heavy_check_mark: Lista Circular
+- :heavy_check_mark: Lista Duplamente Encadeada
+- :x: Nenhuma
