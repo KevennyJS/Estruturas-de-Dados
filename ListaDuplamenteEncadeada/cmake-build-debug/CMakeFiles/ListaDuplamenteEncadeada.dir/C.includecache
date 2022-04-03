@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MasterOv/CLionProjects/ListaDuplamenteEncadeada/funcoes.c
+funcoes.h
+C:/Users/MasterOv/CLionProjects/ListaDuplamenteEncadeada/funcoes.h
+
+C:/Users/MasterOv/CLionProjects/ListaDuplamenteEncadeada/funcoes.h
+stdio.h
+-
+stdlib.h
+-
+
